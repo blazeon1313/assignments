@@ -1,3 +1,5 @@
+# create a class that takes in a number, string,dictionary and tuple.
+
 class Recall:
     def __init__(self):
         self.data = []
